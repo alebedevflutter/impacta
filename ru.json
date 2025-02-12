@@ -1,249 +1,253 @@
 {
-    "common": {
-        "loading": "",
-        "error": "",
-        "ok": "",
-        "cancel": "",
-        "close": "",
-        "save": "",
-        "delete": "",
-        "yes": "",
-        "no": "",
-        "back": "",
-        "next": "",
-        "skip": "",
-        "done": "",
-        "loader": {
-            "loading": "",
-            "loadingDesc": ""
-        }
-    },
-    "appBarPopUp": {
-        "logout": "",
-        "settings": "",
-        "changeLanguage": "",
-        "activatePromo": "",
-        "currentPassword": "",
-        "newPassword": "",
-        "retypePassword": ""
-    },
-    "help": {
-        "title": "",
-        "subtitle": "",
-        "exploreMore": "",
-        "types": {
-            "all": "",
-            "credit": "",
-            "tech": ""
-        },
-        "bestPractices": {
-            "uploadPhoto": {
-                "title": "",
-                "description": "",
-                "modal": {
-                    "title": "",
-                    "description": "",
-                    "disclaimer": "",
-                    "disclaimerText": "",
-                    "whatPhotosWorkBest": "",
-                    "whatPhotosWorkBestText": "",
-                    "howManyPhotos": "",
-                    "howManyPhotosTextOne": "",
-                    "howManyPhotosTextTwo": "",
-                    "howManyPhotosTextThree": "",
-                    "tipsForQuality": "",
-                    "tipsForQualityOneQuestion": "",
-                    "tipsForQualityOneAnswer": "",
-                    "tipsForQualityTwoQuestion": "",
-                    "tipsForQualityTwoAnswer": "",
-                    "tipsForQualityThreeQuestion": "",
-                    "tipsForQualityThreeAnswer": "",
-                    "tipsForQualityFourQuestion": "",
-                    "tipsForQualityFourAnswer": "",
-                    "tipsForQualityFourAnswerTwo": "",
-                    "tipsForQualityFiveQuestion": "",
-                    "tipsForQualityFiveAnswer": "",
-                    "tipsForQualitySixQuestion": "",
-                    "tipsForQualitySixAnswer": "",
-                    "tipsForQualitySevenQuestion": "",
-                    "tipsForQualitySevenAnswer": "",
-                    "photoFormatQuestion": "",
-                    "photoFormatAnswer": "",
-                    "fileLimitsQuestion": "",
-                    "fileLimitsAnswerOne": "",
-                    "fileLimitsAnswerTwo": "",
-                    "fileLimitsAnswerThree": "",
-                    "fileLimitsAnswerFour": "",
-                    "fileLimitsAnswerFive": ""
-                }
-            }
-        }
-    },
-    "home": {
-        "tabs": {
-            "home": "",
-            "help": ""
-        },
-        "contactUs": "",
-        "create": "",
-        "myProject": "",
-        "createPhoto": "",
-        "createModel": "",
-        "coinsCount_one": "",
-        "coinsCount_few": "",
-        "coinsCount_many": "",
-        "coinsCount_other": "",
-        "promoCoinsCount_one": "",
-        "promoCoinsCount_few": "",
-        "promoCoinsCount_many": "",
-        "promoCoinsCount_other": "",
-        "newPhotoProject": "",
-        "newPhotoProjectDesc": "",
-        "newModelProject": "",
-        "newModelProjectDesc": "",
-        "needToCreateProject": "",
-        "noCoins": "",
-        "all": "",
-        "model": "",
-        "photo": "",
-        "delete": "",
-        "rename": "",
-        "modelIsTraining": "",
-        "trainingFailed": ""
-    },
-    "promocode": {
-        "promoTitle": "",
-        "promoDesc": "",
-        "code": "",
-        "apply": ""
-    },
-    "contactUs": {
-        "title": "",
-        "email": "",
-        "name": "",
-        "comment": "",
-        "contactUs": ""
-    },
-    "editProject": {
-        "title": "",
-        "rename": "",
-        "change": ""
-    },
-    "deleteProject": {
-        "title": "",
-        "subtitle": ""
-    },
-    "createPhoto": {
-        "tabs": {
-            "background": ""
-        },
-        "background": {
-            "title": "",
-            "prompt": "",
-            "size": "",
-            "promptSuggestionsBlock": {
-                "promptSuggestions": "",
-                "promptHelpText": "",
-                "usePrompt": "",
-                "promptModalSubtitle": ""
-            },
-            "generate": "",
-            "generationSuggestions": "",
-            "promptHint": "",
-            "generatePromptButton": "",
-            "history": "",
-            "viewAll": "",
-            "noHistory": "",
-            "attachReference": "",
-            "newProject": "",
-            "promptHelpText": ""
-        }
-    },
-    "createModel": {
-        "goHome": "",
-        "welcome": "",
-        "rules": {
-            "1": "",
-            "2": ""
-        },
-        "howGenerate": "",
-        "readBestPractices": "",
-        "bestPractices": "",
-        "dragNDrop": "",
-        "upload": "",
-        "onlyAccept": "",
-        "minimumFiveImages": "",
-        "imageErrors": {
-            "invalidFormat": "",
-            "invalidResolution": "",
-            "invalidSize": ""
-        },
-        "modelIsTraining": "",
-        "youNeedToAdd5morePhotos": "",
-        "homePage": "",
-        "trainingFinish": "",
-        "goToGeneration": "",
-        "startTraining": "",
-        "background": {
-            "title": "",
-            "prompt": "",
-            "size": "",
-            "promptSuggestionsBlock": {
-                "promptSuggestions": "",
-                "promptHelpText": "",
-                "usePrompt": "",
-                "promptModalSubtitle": ""
-            },
-            "generate": "",
-            "generationSuggestions": "",
-            "promptHint": "",
-            "generatePromptButton": "",
-            "history": "",
-            "viewAll": "",
-            "noHistory": "",
-            "attachReference": "",
-            "newModel": "",
-            "promptHelpText": "",
-            "youCanGenerate": "",
-            "youCanGenerateDesc": ""
-        },
-        "model": "",
-        "modelInfo": "",
-        "modelInfoDesc": ""
-    },
-    "generationHistory": {
-        "title": "",
-        "noHistory": "",
-        "noHistoryDescription": "",
-        "deletePhotoPopup": {
-            "title": "",
-            "subtitle": ""
-        },
-        "today": ""
-    },
-    "settings": {
-        "title": "",
-        "myAccount": "",
-        "myPassword": "",
-        "email": "",
-        "deleteYourAccount": "",
-        "deleteAccount": "",
-        "deleteAccountDesc": "",
-        "currentPassword": "",
-        "newPassword": "",
-        "retypePassword": "",
-        "passwordRequirements": ""
-    },
-    "passwordHints": {
-        "lengthHint": "",
-        "numberHint": "",
-        "upperCaseHint": "",
-        "lowerCaseHint": ""
-    },
-    "errors": {
-        "message": "",
-        "passwordsNotMatch": "",
-        "mobileDeviceIncompatibleTitle": "",
-        "mobileDeviceIncompatibleSubTitle": ""
+  "common": {
+    "loading": "",
+    "error": "",
+    "ok": "",
+    "cancel": "",
+    "close": "",
+    "save": "",
+    "delete": "",
+    "yes": "",
+    "no": "",
+    "back": "",
+    "next": "",
+    "skip": "",
+    "done": "",
+    "loader": {
+      "loading": "",
+      "loadingDesc": ""
     }
+  },
+  "appBarPopUp": {
+    "logout": "",
+    "settings": "",
+    "changeLanguage": "",
+    "activatePromo": "",
+    "currentPassword": "",
+    "newPassword": "",
+    "retypePassword": ""
+  },
+  "help": {
+    "title": "",
+    "subtitle": "",
+    "exploreMore": "",
+    "types": {
+      "all": "",
+      "credit": "",
+      "tech": ""
+    },
+    "bestPractices": {
+      "uploadPhoto": {
+        "title": "",
+        "description": "",
+        "modal": {
+          "title": "",
+          "description": "",
+          "disclaimer": "",
+          "disclaimerText": "",
+          "whatPhotosWorkBest": "",
+          "whatPhotosWorkBestText": "",
+          "howManyPhotos": "",
+          "howManyPhotosTextOne": "",
+          "howManyPhotosTextTwo": "",
+          "howManyPhotosTextThree": "",
+          "tipsForQuality": "",
+          "tipsForQualityOneQuestion": "",
+          "tipsForQualityOneAnswer": "",
+          "tipsForQualityTwoQuestion": "",
+          "tipsForQualityTwoAnswer": "",
+          "tipsForQualityThreeQuestion": "",
+          "tipsForQualityThreeAnswer": "",
+          "tipsForQualityFourQuestion": "",
+          "tipsForQualityFourAnswer": "",
+          "tipsForQualityFourAnswerTwo": "",
+          "tipsForQualityFiveQuestion": "",
+          "tipsForQualityFiveAnswer": "",
+          "tipsForQualitySixQuestion": "",
+          "tipsForQualitySixAnswer": "",
+          "tipsForQualitySevenQuestion": "",
+          "tipsForQualitySevenAnswer": "",
+          "photoFormatQuestion": "",
+          "photoFormatAnswer": "",
+          "fileLimitsQuestion": "",
+          "fileLimitsAnswerOne": "",
+          "fileLimitsAnswerTwo": "",
+          "fileLimitsAnswerThree": "",
+          "fileLimitsAnswerFour": "",
+          "fileLimitsAnswerFive": ""
+        }
+      }
+    }
+  },
+  "home": {
+    "tabs": {
+      "home": "",
+      "help": ""
+    },
+    "contactUs": "",
+    "create": "",
+    "myProject": "",
+    "createPhoto": "",
+    "createModel": "",
+    "coinsCount": {
+      "one": "",
+      "few": "",
+      "many": "",
+      "other": ""
+    },
+    "promoCoinsCount": {
+      "one": "",
+      "few": "",
+      "many": "",
+      "other": ""
+    },
+    "newPhotoProject": "",
+    "newPhotoProjectDesc": "",
+    "newModelProject": "",
+    "newModelProjectDesc": "",
+    "needToCreateProject": "",
+    "noCoins": "",
+    "all": "",
+    "model": "",
+    "photo": "",
+    "delete": "",
+    "rename": "",
+    "modelIsTraining": "",
+    "trainingFailed": ""
+  },
+  "promocode": {
+    "promoTitle": "",
+    "promoDesc": "",
+    "code": "",
+    "apply": ""
+  },
+  "contactUs": {
+    "title": "",
+    "email": "",
+    "name": "",
+    "comment": "",
+    "contactUs": ""
+  },
+  "editProject": {
+    "title": "",
+    "rename": "",
+    "change": ""
+  },
+  "deleteProject": {
+    "title": "",
+    "subtitle": ""
+  },
+  "createPhoto": {
+    "tabs": {
+      "background": ""
+    },
+    "background": {
+      "title": "",
+      "prompt": "",
+      "size": "",
+      "promptSuggestionsBlock": {
+        "promptSuggestions": "",
+        "promptHelpText": "",
+        "usePrompt": "",
+        "promptModalSubtitle": ""
+      },
+      "generate": "",
+      "generationSuggestions": "",
+      "promptHint": "",
+      "generatePromptButton": "",
+      "history": "",
+      "viewAll": "",
+      "noHistory": "",
+      "attachReference": "",
+      "newProject": "",
+      "promptHelpText": ""
+    }
+  },
+  "createModel": {
+    "goHome": "",
+    "welcome": "",
+    "rules": {
+      "1": "",
+      "2": ""
+    },
+    "howGenerate": "",
+    "readBestPractices": "",
+    "bestPractices": "",
+    "dragNDrop": "",
+    "upload": "",
+    "onlyAccept": "",
+    "minimumFiveImages": "",
+    "imageErrors": {
+      "invalidFormat": "",
+      "invalidResolution": "",
+      "invalidSize": ""
+    },
+    "modelIsTraining": "",
+    "youNeedToAdd5morePhotos": "",
+    "homePage": "",
+    "trainingFinish": "",
+    "goToGeneration": "",
+    "startTraining": "",
+    "background": {
+      "title": "",
+      "prompt": "",
+      "size": "",
+      "promptSuggestionsBlock": {
+        "promptSuggestions": "",
+        "promptHelpText": "",
+        "usePrompt": "",
+        "promptModalSubtitle": ""
+      },
+      "generate": "",
+      "generationSuggestions": "",
+      "promptHint": "",
+      "generatePromptButton": "",
+      "history": "",
+      "viewAll": "",
+      "noHistory": "",
+      "attachReference": "",
+      "newModel": "",
+      "promptHelpText": "",
+      "youCanGenerate": "",
+      "youCanGenerateDesc": ""
+    },
+    "model": "",
+    "modelInfo": "",
+    "modelInfoDesc": ""
+  },
+  "generationHistory": {
+    "title": "",
+    "noHistory": "",
+    "noHistoryDescription": "",
+    "deletePhotoPopup": {
+      "title": "",
+      "subtitle": ""
+    },
+    "today": ""
+  },
+  "settings": {
+    "title": "",
+    "myAccount": "",
+    "myPassword": "",
+    "email": "",
+    "deleteYourAccount": "",
+    "deleteAccount": "",
+    "deleteAccountDesc": "",
+    "currentPassword": "",
+    "newPassword": "",
+    "retypePassword": "",
+    "passwordRequirements": ""
+  },
+  "passwordHints": {
+    "lengthHint": "",
+    "numberHint": "",
+    "upperCaseHint": "",
+    "lowerCaseHint": ""
+  },
+  "errors": {
+    "message": "",
+    "passwordsNotMatch": "",
+    "mobileDeviceIncompatibleTitle": "",
+    "mobileDeviceIncompatibleSubTitle": ""
+  }
 }
