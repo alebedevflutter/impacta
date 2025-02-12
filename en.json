@@ -1,1 +1,245 @@
-
+{
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "ok": "OK",
+        "cancel": "Cancel",
+        "close": "Close",
+        "save": "Save",
+        "delete": "Delete",
+        "yes": "Yes",
+        "no": "No",
+        "back": "Back",
+        "next": "Next",
+        "skip": "Skip",
+        "done": "Done",
+        "loader": {
+            "loading": "Please, waiting",
+            "loadingDesc": "Hold on a moment, we’re setting things up for you…"
+        }
+    },
+    "appBarPopUp": {
+        "logout": "Log out",
+        "settings": "Settings",
+        "changeLanguage": "Change language",
+        "activatePromo": "Activate new code",
+        "currentPassword": "Current password",
+        "newPassword": "New password",
+        "retypePassword": "Retype new password"
+    },
+    "help": {
+        "title": "Best practices",
+        "subtitle": "Frequently asked questions",
+        "exploreMore": "Explore more",
+        "types": {
+            "all": "All",
+            "credit": "Credit",
+            "tech": "Tech"
+        },
+        "bestPractices": {
+            "uploadPhoto": {
+                "title": "How to choose photos for upload",
+                "description": "The better the photos you upload, the better your product visuals will look",
+                "modal": {
+                    "title": "How to choose photos for upload",
+                    "description": "The better the photos you upload, the better your product visuals will look",
+                    "disclaimer": "Disclaimer",
+                    "disclaimerText": "Our AI works best with clear photos of products. It may struggle with small details and text labels (e.g., beauty products). And the product may appear slightly different in each visual. We’re working on improving accuracy and consistency. But if you notice issues in the generated images, we recommend trying again.",
+                    "whatPhotosWorkBest": "What photos work best?",
+                    "whatPhotosWorkBestText": "Photos that are sharp, well-lit, and show the product from different angles work best. Here are a few examples:",
+                    "howManyPhotos": "How many photos should I upload?",
+                    "howManyPhotosTextOne": "We recommend uploading",
+                    "howManyPhotosTextTwo": "15–20 photos",
+                    "howManyPhotosTextThree": "of your product to get the most accurate results. The minimum is 10, and the maximum is 25.",
+                    "tipsForQuality": "Tips for taking high-quality photos",
+                    "tipsForQualityOneQuestion": "1. Show all angles",
+                    "tipsForQualityOneAnswer": "Take photos of the front, back, and both sides. Include shots from above, below, and at angles \n(25–75 degrees).",
+                    "tipsForQualityTwoQuestion": "2. Use a plain background",
+                    "tipsForQualityTwoAnswer": "A white or light backdrop works best. Avoid decorations or patterns.",
+                    "tipsForQualityThreeQuestion": "3. Keep focus on your product",
+                    "tipsForQualityThreeAnswer": "Make sure your product is the only focus of the photo. If other objects are in the frame, our AI might think they are part of the product and blend them together.",
+                    "tipsForQualityFourQuestion": "4. Add scale and detail shots",
+                    "tipsForQualityFourAnswer": "Take close-ups shots to show intricate details for products like jewelry and accessories.",
+                    "tipsForQualityFourAnswerTwo": "Include a scale shot with everyday objects for size reference.",
+                    "tipsForQualityFiveQuestion": "5. Capture lifestyle photos",
+                    "tipsForQualityFiveAnswer": "For clothing or footwear, take photos of the product in use (e.g., on a mannequin or a person).",
+                    "tipsForQualitySixQuestion": "6. Use good lighting",
+                    "tipsForQualitySixAnswer": "Natural light works best, but soft, diffused artificial light is also fine. Avoid harsh shadows or glare.",
+                    "tipsForQualitySevenQuestion": "7. Set high camera quality",
+                    "tipsForQualitySevenAnswer": "Use the best quality your camera or smartphone allows. Turn off the flash and use RAW or high-resolution JPG settings.",
+                    "photoFormatQuestion": "What photo formats can I upload?",
+                    "photoFormatAnswer": "You can upload photos in these formats:",
+                    "fileLimitsQuestion": "File Limits:",
+                    "fileLimitsAnswerOne": "Max size:",
+                    "fileLimitsAnswerTwo": "25 MB",
+                    "fileLimitsAnswerThree": "per photo. Max resolution:",
+                    "fileLimitsAnswerFour": "1024 px",
+                    "fileLimitsAnswerFive": "on the longest side."
+                }
+            }
+        }
+    },
+    "home": {
+        "tabs": {
+            "home": "Home",
+            "help": "Help center"
+        },
+        "contactUs": "Contact us",
+        "create": "Create product photos",
+        "myProject": "My project",
+        "createPhoto": "Create photo",
+        "createModel": "Create model",
+        "coinsCount_one": "{count} coin",
+        "coinsCount_other": "{count} coins",
+        "promoCoinsCount_one": "Promo code {count} coin activated",
+        "promoCoinsCount_other": "Promo code {count} coins activated",
+        "newPhotoProject": "New PHOTO project",
+        "newPhotoProjectDesc": "Brush over the object/s you want to errase from your generated image.",
+        "newModelProject": "New MODEL project",
+        "newModelProjectDesc": "Brush over the object/s you want to errase from your.",
+        "needToCreateProject": "You need to create a project. You project appears here",
+        "noCoins": "You didn’t have coins. Please ",
+        "all": "All",
+        "model": "Model",
+        "photo": "Photo",
+        "delete": "Delete",
+        "rename": "Rename",
+        "modelIsTraining": "The model is training",
+        "trainingFailed": "Training failed"
+    },
+    "promocode": {
+        "promoTitle": "Welcome offer! \nYou have 10 credits for generations",
+        "promoDesc": "Your need to enter and activate the promo code",
+        "code": "Code",
+        "apply": "Apply"
+    },
+    "contactUs": {
+        "title": "Didn't find the answer? \nThen contact us ",
+        "email": "Email",
+        "name": "Name",
+        "comment": "Comment",
+        "contactUs": "Contact us"
+    },
+    "editProject": {
+        "title": "Change the model name",
+        "rename": "Rename",
+        "change": "Change"
+    },
+    "deleteProject": {
+        "title": "Delete the project?",
+        "subtitle": "Are you sure you want to delete the project? All data and images stored in it will be deleted"
+    },
+    "createPhoto": {
+        "tabs": {
+            "background": "Background"
+        },
+        "background": {
+            "title": "Background",
+            "prompt": "Prompt",
+            "size": "Size",
+            "promptSuggestionsBlock": {
+                "promptSuggestions": "Prompt suggestions",
+                "promptHelpText": "Example: create a background for my product bla-bla bla-bla bla-bla bla-blabla-blabla-blabla-bla",
+                "usePrompt": "Use prompt",
+                "promptModalSubtitle": "Click to use this prompt suggestions"
+            },
+            "generate": "Generate",
+            "generationSuggestions": "{count} coin is debited for 1 generation",
+            "promptHint": "Example: create a background for my product bla-bla",
+            "generatePromptButton": "I need a prompt",
+            "history": "History",
+            "viewAll": "View all",
+            "noHistory": "Your  images appear here",
+            "attachReference": "Attach reference",
+            "newProject": "New project",
+            "promptHelpText": "Example: create a background for my product bla-bla bla-bla bla-bla bla-blabla-blabla-blabla-bla"
+        }
+    },
+    "createModel": {
+        "goHome": "Go to home page",
+        "welcome": "Welcome to",
+        "rules": {
+            "1": "1. Upload at least 3 photos to help your model get better results",
+            "2": "2. Image size must be at least 384×384"
+        },
+        "howGenerate": "How to generate a model",
+        "readBestPractices": "Red your best practices and generate models",
+        "bestPractices": "Best practices",
+        "dragNDrop": "Drag and Drop or choose file to ",
+        "upload": "Upload",
+        "onlyAccept": "Only accept PNG or JPG files.",
+        "minimumFiveImages": "You need to add 5 more photos to start training ",
+        "imageErrors": {
+            "invalidFormat": "File has an invalid format",
+            "invalidResolution": "The image is too small",
+            "invalidSize": "The image is too big"
+        },
+        "modelIsTraining": "The model is training. Please wait. You can go to the ",
+        "youNeedToAdd5morePhotos": "You need to add 5 more photos to start training",
+        "homePage": "home page",
+        "trainingFinish": "The model is finished!",
+        "goToGeneration": "Go to generation",
+        "startTraining": "Start training",
+        "background": {
+            "title": "Model",
+            "prompt": "Prompt",
+            "size": "Size",
+            "promptSuggestionsBlock": {
+                "promptSuggestions": "Prompt suggestions",
+                "promptHelpText": "Example: create a background for my product bla-bla bla-bla bla-bla bla-blabla-blabla-blabla-bla",
+                "usePrompt": "Use prompt",
+                "promptModalSubtitle": "Click to use this prompt suggestions"
+            },
+            "generate": "Generate",
+            "generationSuggestions": "{count} coin is debited for 1 generation",
+            "promptHint": "Example: create a background for my product bla-bla",
+            "generatePromptButton": "I need a prompt",
+            "history": "History",
+            "viewAll": "View all",
+            "noHistory": "Your  images appear here",
+            "attachReference": "Attach reference",
+            "newModel": "New model",
+            "promptHelpText": "Example: create a background for my product bla-bla bla-bla bla-bla bla-blabla-blabla-blabla-bla",
+            "youCanGenerate": "You can generate your modal!",
+            "youCanGenerateDesc": "Brush over the object/s you want to errase from your generated image."
+        },
+        "model": "Model",
+        "modelInfo": "Model info",
+        "modelInfoDesc": "Improve your current model. You need to delete some of the content to upload a new photo if you have uploaded more than 15 photos. Only PNG or JPG files are accepted."
+    },
+    "generationHistory": {
+        "title": "History",
+        "noHistory": "Your generation history appear here!",
+        "noHistoryDescription": "Brush over the object/s you want to errase from your \ngenerated image.",
+        "deletePhotoPopup": {
+            "title": "Delete the photo?",
+            "subtitle": "Are you sure you want to delete the project? All data and images stored in it will be deleted"
+        },
+        "today": "Today"
+    },
+    "settings": {
+        "title": "Settings",
+        "myAccount": "My account",
+        "myPassword": "My password",
+        "email": "Email",
+        "deleteYourAccount": "Delete Your account",
+        "deleteAccount": "Delete account",
+        "deleteAccountDesc": "By deleting your account, all your data, including your edits, collections, and likes will be deleted.",
+        "currentPassword": "Current password",
+        "newPassword": "New password",
+        "retypePassword": "Retype new password",
+        "passwordRequirements": "Password Password requirements"
+    },
+    "passwordHints": {
+        "lengthHint": "8 characters or more",
+        "numberHint": "a number",
+        "upperCaseHint": "an uppercase Latin letter",
+        "lowerCaseHint": "a lowercase Latin letter"
+    },
+    "errors": {
+        "message": "An error occurred. Please try again later.",
+        "passwordsNotMatch": "Your password does not meet the requirements",
+        "mobileDeviceIncompatibleTitle": "Impacta works best on desktop",
+        "mobileDeviceIncompatibleSubTitle": "We’re still working on a mobile version. For better experience, use Impacta on a laptop or PC"
+    }
+}
