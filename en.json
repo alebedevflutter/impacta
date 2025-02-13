@@ -245,5 +245,8 @@
     "passwordsNotMatch": "Your password does not meet the requirements",
     "mobileDeviceIncompatibleTitle": "Impacta works best on desktop",
     "mobileDeviceIncompatibleSubTitle": "We’re still working on a mobile version. For better experience, use Impacta on a laptop or PC"
+  },
+  "localePopup": {
+    "title": "Change language"
   }
 }
