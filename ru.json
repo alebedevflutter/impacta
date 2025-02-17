@@ -19,13 +19,13 @@
     }
   },
   "appBarPopUp": {
-    "logout": "",
-    "settings": "",
-    "changeLanguage": "Сменить язык",
-    "activatePromo": "",
-    "currentPassword": "",
-    "newPassword": "",
-    "retypePassword": ""
+    "logout": "Выйти",
+    "settings": "Настройки",
+    "changeLanguage": "Изменить язык",
+    "activatePromo": "Ввести промокод",
+    "currentPassword": "Старый пароль",
+    "newPassword": "Новый пароль",
+    "retypePassword": "Новый пароль ещё раз"
   },
   "help": {
     "title": "",
@@ -81,19 +81,19 @@
   },
   "home": {
     "tabs": {
-      "home": "",
-      "help": ""
+      "home": "Главная",
+      "help": "Центр поддержки"
     },
-    "contactUs": "",
-    "create": "",
-    "myProject": "",
+    "contactUs": "Написать нам",
+    "create": "Что хотите сделать?",
+    "myProject": "Библиотека проектов",
     "createPhoto": "",
     "createModel": "",
     "coinsCount": {
-      "one": "",
-      "few": "",
-      "many": "",
-      "other": ""
+      "one": "{count} кредит",
+      "few": "{count} кредита",
+      "many": "{count} кредитов",
+      "other": "{count} кредита"
     },
     "promoCoinsCount": {
       "one": "",
@@ -101,15 +101,15 @@
       "many": "",
       "other": ""
     },
-    "newPhotoProject": "",
-    "newPhotoProjectDesc": "",
-    "newModelProject": "",
-    "newModelProjectDesc": "",
-    "needToCreateProject": "",
+    "newPhotoProject": "Заменить фон",
+    "newPhotoProjectDesc": "Загрузите фото вашего продукта. Мы вырежем его фон и заменим на любой, который опишете",
+    "newModelProject": "Сделать профессиональную фотосессию",
+    "newModelProjectDesc": "Загрузите несколько фото вашего товара с разных сторон. Наша нейросеть обучится на них, и вы сможете создавать фото студийного качества в разных контекстах",
+    "needToCreateProject": "Здесь будут ваши проекты",
     "noCoins": "",
-    "all": "",
-    "model": "",
-    "photo": "",
+    "all": "Все",
+    "model": "Фотосессия",
+    "photo": "Фон",
     "delete": "",
     "rename": "",
     "modelIsTraining": "",
