@@ -32,9 +32,10 @@
     "subtitle": "",
     "exploreMore": "",
     "types": {
-      "all": "",
-      "credit": "",
-      "tech": ""
+      "all": "All",
+      "credit": "Credits",
+      "general": "General",
+      "features": "Features"
     },
     "bestPractices": {
       "uploadPhoto": {
@@ -77,6 +78,50 @@
           "fileLimitsAnswerFive": ""
         }
       }
+    },
+    "questions": {
+      "general": {
+        "one": {
+          "question": "",
+          "answer": ""
+        },
+        "two": {
+          "question": "",
+          "answer": ""
+        },
+        "three": {
+          "question": "",
+          "answer": ""
+        }
+      },
+      "credit": {
+        "one": {
+          "question": "",
+          "answer": ""
+        },
+        "two": {
+          "question": "",
+          "answer": ""
+        }
+      },
+      "features": {
+        "one": {
+          "question": "",
+          "answer": ""
+        },
+        "two": {
+          "question": "",
+          "answer": ""
+        },
+        "three": {
+          "question": "",
+          "answer": ""
+        },
+        "four": {
+          "question": "",
+          "answer": ""
+        }
+      }
     }
   },
   "home": {
@@ -95,38 +140,38 @@
       "many": "{count} кредитов",
       "other": "{count} кредита"
     },
-    "promoCoinsCount": {
-      "one": "",
-      "few": "",
-      "many": "",
-      "other": ""
-    },
     "newPhotoProject": "Заменить фон",
     "newPhotoProjectDesc": "Загрузите фото вашего продукта. Мы вырежем его фон и заменим на любой, который опишете",
     "newModelProject": "Сделать профессиональную фотосессию",
     "newModelProjectDesc": "Загрузите несколько фото вашего товара с разных сторон. Наша нейросеть обучится на них, и вы сможете создавать фото студийного качества в разных контекстах",
     "needToCreateProject": "Здесь будут ваши проекты",
-    "noCoins": "",
     "all": "Все",
     "model": "Фотосессия",
     "photo": "Фон",
     "delete": "",
     "rename": "",
     "modelIsTraining": "",
-    "trainingFailed": ""
+    "trainingFailed": "",
+    "promoCoinsApplied": "Promo code applied, and your balance updated",
+    "noCoinsOne": " Not enough credits.",
+    "noCoinsTwo": "Contact us",
+    "noCoinsThree": "for a new promo code"
   },
   "promocode": {
     "promoTitle": "",
-    "promoDesc": "",
     "code": "",
-    "apply": ""
+    "apply": "",
+    "promoDescOne": "To help you get started, \u2028we’re giving you",
+    "promoDescTwo": "10 bonus credits"
   },
   "contactUs": {
     "title": "",
     "email": "",
     "name": "",
     "comment": "",
-    "contactUs": ""
+    "contactUs": "",
+    "subtitle": "Hey there! How can we help?",
+    "commentHint": "Type your message here"
   },
   "editProject": {
     "title": "",
@@ -142,7 +187,6 @@
       "background": ""
     },
     "background": {
-      "title": "",
       "prompt": "",
       "size": "",
       "promptSuggestionsBlock": {
@@ -175,8 +219,6 @@
     "bestPractices": "",
     "dragNDrop": "",
     "upload": "",
-    "onlyAccept": "",
-    "minimumFiveImages": "",
     "imageErrors": {
       "invalidFormat": "",
       "invalidResolution": "",
@@ -184,12 +226,10 @@
     },
     "modelIsTraining": "",
     "youNeedToAdd5morePhotos": "",
-    "homePage": "",
     "trainingFinish": "",
     "goToGeneration": "",
     "startTraining": "",
     "background": {
-      "title": "",
       "prompt": "",
       "size": "",
       "promptSuggestionsBlock": {
@@ -199,7 +239,6 @@
         "promptModalSubtitle": ""
       },
       "generate": "",
-      "generationSuggestions": "",
       "promptHint": "",
       "generatePromptButton": "",
       "history": "",
@@ -209,7 +248,11 @@
       "newModel": "",
       "promptHelpText": "",
       "youCanGenerate": "",
-      "youCanGenerateDesc": ""
+      "youCanGenerateDesc": "",
+      "tabs": {
+        "background": "Background"
+      },
+      "title": ""
     },
     "model": "",
     "modelInfo": "",
@@ -222,8 +265,7 @@
     "deletePhotoPopup": {
       "title": "",
       "subtitle": ""
-    },
-    "today": ""
+    }
   },
   "settings": {
     "title": "",
