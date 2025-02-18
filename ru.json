@@ -16,7 +16,8 @@
     "loader": {
       "loading": "",
       "loadingDesc": ""
-    }
+    },
+    "apply": ""
   },
   "appBarPopUp": {
     "logout": "Выйти",
@@ -155,7 +156,10 @@
     "promoCoinsApplied": "Promo code applied, and your balance updated",
     "noCoinsOne": " Not enough credits.",
     "noCoinsTwo": "Contact us",
-    "noCoinsThree": "for a new promo code"
+    "noCoinsThree": "for a new promo code",
+    "trainingFailedDesc": "",
+    "tryAgain": "",
+    "coinsCountUnlim": ""
   },
   "promocode": {
     "promoTitle": "",
@@ -270,7 +274,6 @@
   "settings": {
     "title": "",
     "myAccount": "",
-    "myPassword": "",
     "email": "",
     "deleteYourAccount": "",
     "deleteAccount": "",
@@ -278,7 +281,10 @@
     "currentPassword": "",
     "newPassword": "",
     "retypePassword": "",
-    "passwordRequirements": ""
+    "passwordRequirements": "",
+    "changePassword": "",
+    "createPassword": "",
+    "password": ""
   },
   "passwordHints": {
     "lengthHint": "",
@@ -294,5 +300,9 @@
   },
   "localePopup": {
     "title": "Сменить язык"
+  },
+  "toasts": {
+    "passwordChanged": "",
+    "promoCodeApplied": ""
   }
 }
