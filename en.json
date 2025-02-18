@@ -34,7 +34,8 @@
     "types": {
       "all": "All",
       "credit": "Credits",
-      "tech": "Tech"
+      "general": "General",
+      "features": "Features"
     },
     "bestPractices": {
       "uploadPhoto": {
@@ -77,6 +78,50 @@
           "fileLimitsAnswerFive": "on the longest side."
         }
       }
+    },
+    "questions": {
+      "general": {
+        "one": {
+          "question": "What do I write in the description?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>Use our templates to describe your scene.</p>\n\n  <p><strong>For a photo shoot</strong>, try this format:</p>\n  <p style=\"color: #777C93;\">\n    [The product] positioned [on the platform], surrounded by [flowers], [forest] in the background, [soft yellow] lighting, [minimalist] style.\n  </p>\n\n  <p>\n    Start by naming your product and its color to keep AI focused—like \"red handbag\" or \"gold earrings.\" Then describe its position (standing, lying, angled), surroundings, background, lighting, and style.\n  </p>\n\n  <p><strong>For a background</strong>, use the same format but omit the product’s position:</p>\n  <p style=\"color: #777C93;\">\n    [The product] surrounded by [flowers], [forest] in the background, [soft yellow] lighting, [minimalist] style.\n  </p>\n</div>"
+        },
+        "two": {
+          "question": "Who owns the images I generated? Can I use them in ads and promo materials?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">You own the images you’ve generated, and you can use them for any commercial purposes.</div>"
+        },
+        "three": {
+          "question": "How long will you keep my projects and images?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">We don’t plan to delete them.<br/>Even if you run out of space, you’ll still be able to see your projects and images. If you need to create a new project, you’ll have to delete older ones first.</div>"
+        }
+      },
+      "credit": {
+        "one": {
+          "question": "What are credits and how do I use them?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>\n    Credits are an in-platform currency.<br/>\n    When you join Impacta, you get 10 bonus credits to try out the platform. To get more, you’ll need a promo code.<br/><br/>\n    Every action on Impacta uses credits. Simple actions, like background removal, cost fewer credits. More complex ones, like a product photo shoot, cost more.<br/><br/>\n    Here’s how much each action costs:\n  </p>\n  <ul>\n    <li>Removing a background — <strong>0.1 credits</strong></li>\n    <li>Creating a set of 4 images (1 generation) — <strong>1 credit</strong></li>\n    <li>Creating a photo shoot — <strong>50 credits</strong></li>\n  </ul>\n</div>"
+        },
+        "two": {
+          "question": "I’ve run out of credits. How do I get more?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>\n    You can get more credits by using a promo code.<br/>\n    If you're working with an Impacta representative, reach out to them for a new promo code. Let them know what you want to do and how many credits you’ll need. Or, fill in the form in the <strong>Contact us</strong> section, and we’ll send you one.\n  </p>\n</div>"
+        }
+      },
+      "features": {
+        "one": {
+          "question": "What’s the difference between replacing a background and creating a product photo shoot?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">When replacing a background, we remove the background from your uploaded product photo and replace it with anything you describe. Your product stays exactly the same — same color, position, and angle.\u2028<br/>When you create a photo shoot, our AI studies your product photos to understand its shape and details. This allows us to generate images showing your product from different angles and in various settings. For clothing, footwear, and accessories, we can also create lifestyle images where a person is wearing your product.</div>"
+        },
+        "two": {
+          "question": "I don’t know if I want to replace the background or create a photo shoot. How do I choose?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>Both options work — choose based on your needs.</p>\n\n  <p><strong>When to use ‘Replace background’:</strong></p>\n  <ul>\n    <li><strong>You have a great product photo</strong> and just want a new background.</li>\n    <li><strong>You need quick results.</strong> Background replacement gives you dozens of images in minutes.</li>\n    <li><strong>You’re looking for inspiration.</strong> Try different backdrops and styles to see what works best.</li>\n  </ul>\n\n  <p><strong>When to use ‘Create product photo shoot’:</strong></p>\n  <ul>\n    <li><strong>You need multiple images of your product from different angles.</strong></li>\n    <li><strong>You travel a lot or don’t always have your product on hand.</strong> With a product photo shoot, you upload photos of your product once, and then you can create different-looking images with just a description of what you need.</li>\n    <li><strong>You have time to spare.</strong> Training our AI can take up to an hour.</li>\n  </ul>\n</div>"
+        },
+        "three": {
+          "question": "How do you create images of my product in a photo shoot project?",
+          "answer": "<div><span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">AI is great at creating new images, but consistency can be tricky. It sometimes struggles to keep your product exactly the same in every image, so you may notice small differences. We’re working to improve this.\u2028<br/>The accuracy of your product in generated images also depends on the quality of your uploaded photos. Make sure your photos show all angles, include close-ups for small details, and provide scale shots for size reference. Check out our guide </span><span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; text-decoration: underline; line-height: 24px; word-wrap: break-word\">How to choose photos for upload</span><span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\"> for more tips.</span></div>"
+        },
+        "four": {
+          "question": "Why does my product look different in the images?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>\n    AI is great at creating new images, but consistency can be tricky. It sometimes struggles to keep your product exactly the same in every image, so you may notice small differences. We’re working to improve this.\n  </p>\n  <p>\n    The accuracy of your product in generated images also depends on the quality of your uploaded photos. Make sure your photos show all angles, include close-ups for small details, and provide scale shots for size reference. Check out our guide \n    <a href=\"#\" style=\"color: #1C244B; text-decoration: underline;\">How to choose photos for upload</a> for more tips.\n  </p>\n</div>"
+        }
+      }
     }
   },
   "home": {
@@ -93,36 +138,38 @@
       "one": "{count} credit",
       "other": "{count} credits"
     },
-    "promoCoinsCount": {
-      "one": "Promo code applied, and your balance updated",
-      "other": "Promo code applied, and your balance updated"
-    },
     "newPhotoProject": "Replace background",
     "newPhotoProjectDesc": "Upload a photo of your product and change its background to anything you can imagine",
     "newModelProject": "Create product photo shoot",
     "newModelProjectDesc": "Upload a few photos of your product from different angles. Our AI will learn from them, so you can easily create\u2028 studio-like images of your product in any setting",
     "needToCreateProject": "Here will be everything\u2028\nyou work on",
-    "noCoins": "You didn’t have coins. Please ",
     "all": "All",
     "model": "Photo shoot",
     "photo": "Background",
     "delete": "Delete",
     "rename": "Edit name",
     "modelIsTraining": "Our AI is learning to capture your product and its details",
-    "trainingFailed": "Training failed"
+    "trainingFailed": "Training failed",
+    "promoCoinsApplied": "Promo code applied, and your balance updated",
+    "noCoinsOne": " Not enough credits.",
+    "noCoinsTwo": "Contact us",
+    "noCoinsThree": "for a new promo code"
   },
   "promocode": {
     "promoTitle": "Apply a promo code\u2028 to get credits",
-    "promoDesc": "To help you get started, \u2028we’re giving you 10 bonus credits",
     "code": "Code",
-    "apply": "Apply"
+    "apply": "Apply",
+    "promoDescOne": "To help you get started, \u2028we’re giving you",
+    "promoDescTwo": "10 bonus credits"
   },
   "contactUs": {
     "title": "Hey there! How can we help?",
     "email": "Your email",
     "name": "Your name",
     "comment": "Message",
-    "contactUs": "Send"
+    "contactUs": "Send",
+    "subtitle": "Fill in the form, and we’ll get back to you",
+    "commentHint": "Write your questions, suggest changes, or ask for a promo code here"
   },
   "editProject": {
     "title": "Edit name",
@@ -130,7 +177,7 @@
     "change": "Save"
   },
   "deleteProject": {
-    "title": "Delete the project?",
+    "title": "Delete '{name}'",
     "subtitle": "We’ll remove all uploaded photos and generated images. This action cannot be undone"
   },
   "createPhoto": {
@@ -138,7 +185,6 @@
       "background": "Create"
     },
     "background": {
-      "title": "Background",
       "prompt": "What background\u2028\ndo you want to create?",
       "size": "Aspect ratio",
       "promptSuggestionsBlock": {
@@ -171,8 +217,6 @@
     "bestPractices": "How to choose photos for upload",
     "dragNDrop": "Drop your photos here\n\u2028or",
     "upload": "choose files to upload",
-    "onlyAccept": "Only accept PNG or JPG files.",
-    "minimumFiveImages": "Upload at least 10 photos of your product",
     "imageErrors": {
       "invalidFormat": "File format not supported",
       "invalidResolution": "The photo\u2028 should be at least\u2028 384 x 384 px",
@@ -180,12 +224,10 @@
     },
     "modelIsTraining": "Our AI is learning to capture your product and its details.\n\u2028You do not have to stay on this page. We’ll send you an email when it’s done",
     "youNeedToAdd5morePhotos": "Upload at least 10 photos of your product",
-    "homePage": "home page",
     "trainingFinish": "All done! Let’s create your first visual",
     "goToGeneration": "Get started",
     "startTraining": "Continue",
     "background": {
-      "title": "Create",
       "prompt": "What visual do you want to create?",
       "size": "Aspect ratio",
       "promptSuggestionsBlock": {
@@ -195,7 +237,6 @@
         "promptModalSubtitle": "We’ve prepared a collection of styles to help you create studio-like visuals.\nChoose any style, and we’ll add it to your description"
       },
       "generate": "Create",
-      "generationSuggestions": "{count} coin is debited for 1 generation",
       "promptHint": "‘Get inspiration from AI’ will generate a description for your product.\u2028\nAdd reference image\u2028 if you want to create a visual\n\u2028in the similar style.\n\u2028Or write a description \u2028if you know what image\n\u2028you want to create.",
       "generatePromptButton": "Get inspiration from AI",
       "history": "History",
@@ -205,7 +246,11 @@
       "newModel": "New project",
       "promptHelpText": "[The product] positioned [on the platform], surrounded by [flowers], [forest] in the background, [soft yellow] lighting, [minimalist] style",
       "youCanGenerate": "Now, imagine the ideal setting\u2028 for your product",
-      "youCanGenerateDesc": "Describe product position in the image, any surrounding objects, background, lighting, and style"
+      "youCanGenerateDesc": "Describe product position in the image, any surrounding objects, background, lighting, and style",
+      "tabs": {
+        "background": "Background"
+      },
+      "title": "Create"
     },
     "model": "Create",
     "modelInfo": "Uploaded photos",
@@ -218,8 +263,7 @@
     "deletePhotoPopup": {
       "title": "Delete this image?",
       "subtitle": "This action cannot be undone"
-    },
-    "today": "Today"
+    }
   },
   "settings": {
     "title": "Settings",
