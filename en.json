@@ -16,7 +16,8 @@
     "loader": {
       "loading": "Please, waiting",
       "loadingDesc": "Hold on a moment, we’re setting things up for you…"
-    }
+    },
+    "apply": "Apply"
   },
   "appBarPopUp": {
     "logout": "Sign out",
@@ -149,11 +150,14 @@
     "delete": "Delete",
     "rename": "Edit name",
     "modelIsTraining": "Our AI is learning to capture your product and its details",
-    "trainingFailed": "Training failed",
+    "trainingFailed": "Something went wrong\nduring training",
     "promoCoinsApplied": "Promo code applied, and your balance updated",
     "noCoinsOne": " Not enough credits.",
     "noCoinsTwo": "Contact us",
-    "noCoinsThree": "for a new promo code"
+    "noCoinsThree": "for a new promo code",
+    "trainingFailedDesc": "We are sorry for the trouble.\u2028Please try again",
+    "tryAgain": "Try again",
+    "coinsCountUnlim": "Unlimited credits"
   },
   "promocode": {
     "promoTitle": "Apply a promo code\u2028 to get credits",
@@ -268,7 +272,6 @@
   "settings": {
     "title": "Settings",
     "myAccount": "Account",
-    "myPassword": "My password",
     "email": "Your email",
     "deleteYourAccount": "Delete account",
     "deleteAccount": "Delete account",
@@ -276,7 +279,10 @@
     "currentPassword": "Old password",
     "newPassword": "New password",
     "retypePassword": "Confirm password",
-    "passwordRequirements": "Password requirements"
+    "passwordRequirements": "Password requirements",
+    "changePassword": "Change password",
+    "createPassword": "Create password",
+    "password": "Password"
   },
   "passwordHints": {
     "lengthHint": "8 characters or more",
@@ -292,5 +298,9 @@
   },
   "localePopup": {
     "title": "Change language"
+  },
+  "toasts": {
+    "passwordChanged": "Password changed",
+    "promoCodeApplied": "Promo code '{name}' applied"
   }
 }
