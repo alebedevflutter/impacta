@@ -116,7 +116,7 @@
         },
         "three": {
           "question": "How do you create images of my product in a photo shoot project?",
-          "answer": "<div><span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\"> \n<p>For photo shoot projects, we need 15-20 photos of your product. Our AI studies them to understand your product’s shape and details, creating a 3D model-like reference.\u2028\n</p>\n<p>\nThis process can take up to an hour. When complete, you only need to describe a scene, and we’ll generate new images featuring your product.\n</p>\n<span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\"> for more tips.</span></div>"
+          "answer": "<span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\"> \n<p>For photo shoot projects, we need 15-20 photos of your product. Our AI studies them to understand your product’s shape and details, creating a 3D model-like reference.\u2028\n</p>\n<p>\nThis process can take up to an hour. When complete, you only need to describe a scene, and we’ll generate new images featuring your product.\n</p>"
         },
         "four": {
           "question": "Why does my product look different in the images?",
