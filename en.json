@@ -76,7 +76,8 @@
           "fileLimitsAnswerTwo": "25 MB",
           "fileLimitsAnswerThree": "per photo. Max resolution:",
           "fileLimitsAnswerFour": "1024 px",
-          "fileLimitsAnswerFive": "on the longest side."
+          "fileLimitsAnswerFive": "on the longest side.",
+          "fileLimitsAnswerThreeNextTab": "Max resolution:"
         }
       }
     },
@@ -157,7 +158,8 @@
     "noCoinsThree": "for a new promo code",
     "trainingFailedDesc": "We are sorry for the trouble.\u2028Please try again",
     "tryAgain": "Try again",
-    "coinsCountUnlim": "Unlimited credits"
+    "coinsCountUnlim": "Unlimited credits",
+    "noCredits": "No credits"
   },
   "promocode": {
     "promoTitle": "Apply a promo code\u2028 to get credits",
@@ -173,7 +175,8 @@
     "comment": "Message",
     "contactUs": "Send",
     "subtitle": "Fill in the form, and we’ll get back to you",
-    "commentHint": "Write your questions, suggest changes, or ask for a promo code here"
+    "commentHint": "Write your questions, suggest changes, or ask for a promo code here",
+    "commentError": "We need a bit more info to take action"
   },
   "editProject": {
     "title": "Edit name",
