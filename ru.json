@@ -76,7 +76,8 @@
           "fileLimitsAnswerTwo": "",
           "fileLimitsAnswerThree": "",
           "fileLimitsAnswerFour": "",
-          "fileLimitsAnswerFive": ""
+          "fileLimitsAnswerFive": "",
+          "fileLimitsAnswerThreeNextTab": ""
         }
       }
     },
@@ -159,7 +160,8 @@
     "noCoinsThree": "for a new promo code",
     "trainingFailedDesc": "",
     "tryAgain": "",
-    "coinsCountUnlim": ""
+    "coinsCountUnlim": "",
+    "noCredits": ""
   },
   "promocode": {
     "promoTitle": "",
@@ -175,7 +177,8 @@
     "comment": "",
     "contactUs": "",
     "subtitle": "Hey there! How can we help?",
-    "commentHint": "Type your message here"
+    "commentHint": "Type your message here",
+    "commentError": ""
   },
   "editProject": {
     "title": "",
