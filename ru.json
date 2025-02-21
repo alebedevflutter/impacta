@@ -1,23 +1,23 @@
 {
   "common": {
-    "loading": "",
+    "loading": "Загружаем…",
     "error": "",
-    "ok": "",
-    "cancel": "",
-    "close": "",
+    "ok": "OK",
+    "cancel": "Отмена",
+    "close": "Закрыть",
     "save": "Сохранить",
-    "delete": "",
-    "yes": "",
-    "no": "",
+    "delete": "Удалить",
+    "yes": "Да",
+    "no": "Нет",
     "back": "Назад",
-    "next": "",
-    "skip": "",
-    "done": "",
+    "next": "Дальше",
+    "skip": "Пропустить",
+    "done": "Готово",
     "loader": {
-      "loading": "",
-      "loadingDesc": ""
+      "loading": "Почту подтвердили, отлично!",
+      "loadingDesc": "Минутку, настраиваем ваше рабочее пространство…"
     },
-    "apply": ""
+    "apply": "Применить"
   },
   "appBarPopUp": {
     "logout": "Выйти",
@@ -29,99 +29,99 @@
     "retypePassword": "Новый пароль ещё раз"
   },
   "help": {
-    "title": "",
-    "subtitle": "",
-    "exploreMore": "",
+    "title": "Руководства",
+    "subtitle": "Ответы на вопросы",
+    "exploreMore": "Читать",
     "types": {
-      "all": "All",
-      "credit": "Credits",
-      "general": "General",
-      "features": "Features"
+      "all": "Все",
+      "credit": "Кредиты",
+      "general": "Общие",
+      "features": "Функциональность"
     },
     "bestPractices": {
       "uploadPhoto": {
-        "title": "",
-        "description": "",
+        "title": "Как выбрать фото для загрузки",
+        "description": "Рекомендации по свету, фону и расположению товара, чтобы помочь вам выбрать подходящие фото",
         "modal": {
-          "title": "",
-          "description": "",
-          "disclaimer": "",
-          "disclaimerText": "",
-          "whatPhotosWorkBest": "",
-          "whatPhotosWorkBestText": "",
-          "howManyPhotos": "",
-          "howManyPhotosTextOne": "",
-          "howManyPhotosTextTwo": "",
-          "howManyPhotosTextThree": "",
-          "tipsForQuality": "",
-          "tipsForQualityOneQuestion": "",
-          "tipsForQualityOneAnswer": "",
-          "tipsForQualityTwoQuestion": "",
-          "tipsForQualityTwoAnswer": "",
-          "tipsForQualityThreeQuestion": "",
-          "tipsForQualityThreeAnswer": "",
-          "tipsForQualityFourQuestion": "",
-          "tipsForQualityFourAnswer": "",
-          "tipsForQualityFourAnswerTwo": "",
-          "tipsForQualityFiveQuestion": "",
-          "tipsForQualityFiveAnswer": "",
-          "tipsForQualitySixQuestion": "",
-          "tipsForQualitySixAnswer": "",
-          "tipsForQualitySevenQuestion": "",
-          "tipsForQualitySevenAnswer": "",
-          "photoFormatQuestion": "",
-          "photoFormatAnswer": "",
-          "fileLimitsQuestion": "",
-          "fileLimitsAnswerOne": "",
-          "fileLimitsAnswerTwo": "",
-          "fileLimitsAnswerThree": "",
-          "fileLimitsAnswerFour": "",
-          "fileLimitsAnswerFive": "",
-          "fileLimitsAnswerThreeNextTab": ""
+          "title": "Как выбрать фото для загрузки",
+          "description": "Если кратко, то чем выше качество исходных фото, тем лучше получатся изображения от нейросети.",
+          "disclaimer": "Оговорка",
+          "disclaimerText": "Нейросеть работает лучше всего с чёткими фото товаров. Для товаров с большим количеством мелких деталей и текстовыми этикетками (например, косметика) генерации получаются не всегда точные.\u2028Нейросеть иногда искажает товар, и в разных изображениях ваш товар может выглядеть по-разному. Мы работаем над тем, чтобы товар передавался точно и однородно.\u2028Если ваш товар получился не идеальным, то попробуйте сгенерировать их ещё раз. Или напишите нам, посмотрим, что можно сделать.",
+          "whatPhotosWorkBest": "Какие фото подходят лучше всего?",
+          "whatPhotosWorkBestText": "Рекомендуем использовать резкие фото товара в хорошем освещении с разных сторон. Вот несколько примеров:",
+          "howManyPhotos": "Сколько фото загружать?",
+          "howManyPhotosTextOne": "Рекомендуем загружать",
+          "howManyPhotosTextTwo": "15–20 фото",
+          "howManyPhotosTextThree": "вашего товара, чтобы получить более точные результаты. Минимум — 10 фото, максимум — 25.",
+          "tipsForQuality": "Как сделать качественные фото",
+          "tipsForQualityOneQuestion": "1. Покажите товар со всех сторон",
+          "tipsForQualityOneAnswer": "Сделайте фото вашего товара спереди, сзади и с разных сторон. Затем снимите ваш товар сверху, снизу и под углом (25–75 градусов).",
+          "tipsForQualityTwoQuestion": "2. Используйте простой фон без лишних деталей",
+          "tipsForQualityTwoAnswer": "Белый или светлый фон подходит лучше всего. Избегайте узоров и украшений на стене.",
+          "tipsForQualityThreeQuestion": "3. Товар — в фокусе, фон размыт",
+          "tipsForQualityThreeAnswer": "Важно, чтобы ваш товар был главным объектом на фото. Если в кадр попадут другие предметы, то нейросеть может посчитать их частью вашего товара и использовать при создании новых изображений.",
+          "tipsForQualityFourQuestion": "4. Покажите детали и масштаб",
+          "tipsForQualityFourAnswer": "Сфотографируйте свой товар крупным планом, чтобы показать мелкие детали, особенно если ваш товар — это украшения или аксессуары.",
+          "tipsForQualityFourAnswerTwo": "Положите рядом с вашим товаром другой предмет, чтобы показать реальный размер.",
+          "tipsForQualityFiveQuestion": "5. Покажите пример использования",
+          "tipsForQualityFiveAnswer": "Для одежды и обуви сделайте кадры на человеке или манекене, чтобы показать, как ваш товар используется в жизни.",
+          "tipsForQualitySixQuestion": "6. Используйте хорошее освещение",
+          "tipsForQualitySixAnswer": "Лучшего всего делать снимки при естественном освещении. Но мягкий, рассеянный искусственный свет тоже подходит. Избегайте бликов и теней.",
+          "tipsForQualitySevenQuestion": "7. Установите высокое качество на камере",
+          "tipsForQualitySevenAnswer": "Выберите самое высокое качество в вашей камере или на телефоне. Отключите автоматическую вспышку, чтобы избежать бликов на вашем товаре.",
+          "photoFormatQuestion": "В каком формате загружать фото?",
+          "photoFormatAnswer": "Мы поддерживаем эти форматы:",
+          "fileLimitsQuestion": "Ограничения:",
+          "fileLimitsAnswerOne": "Максимальный размер файла:",
+          "fileLimitsAnswerTwo": "25 МБ",
+          "fileLimitsAnswerThree": ".\nРазрешение:",
+          "fileLimitsAnswerFour": "1024 пикселей",
+          "fileLimitsAnswerFive": "по бОльшей стороне.",
+          "fileLimitsAnswerThreeNextTab": "Разрешение:"
         }
       }
     },
     "questions": {
       "general": {
         "one": {
-          "question": "",
-          "answer": ""
+          "question": "Что нужно писать в описании, когда создаю новые изображения?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>Мы подготовили шаблоны, чтобы помочь вам с описанием.</p>\n\n  <p>Шаблон для <strong>фотосессии</strong>:</p>\n<p style=\"color: #1C244B;\">\n    <span style=\"color: #777C93;\">[Товар и его цвет]</span> располагается\n<span style=\"color: #777C93;\">[на платформе]</span>, вокруг <span style=\"color: #777C93;\">[цветы]</span>,\nна фоне <span style=\"color: #777C93;\">[леса]</span>,\n<span style=\"color: #777C93;\">[мягкий тёплый]</span> свет,\n <span style=\"color: #777C93;\">[минималистичный]</span> стиль.\n</p>\n\n<p>\nНачинайте с названия вашего товара и его цвета. Это важно, чтобы нейросеть сгенерировала нужный товар нужного цвета. Например, «красная сумка» или «золотые серьги». Затем опишите расположение товара на фото (стоит, лежит, повёрнут), окружение, фон, освещение и стиль.\n  </p>\n\n  <p>Для <strong>фона</strong>, в описании нет части про расположение товара:</p>\n<p style=\"color: #1C244B;\">\n    <span style=\"color: #777C93;\">[Товар]</span> на фоне <span style=\"color: #777C93;\">[леса]</span>, \nвокруг <span style=\"color: #777C93;\">[цветы]</span>, \n<span style=\"color: #777C93;\">[мягкий тёплый]</span> свет, \n<span style=\"color: #777C93;\">[минималистичный]</span> стиль.\n</p>\n</div>"
         },
         "two": {
-          "question": "",
-          "answer": ""
+          "question": "Кому принадлежат сгенерированные изображения? Могу ли я использовать их в коммерческих целях?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">Все созданные изображения принадлежат вам, и вы можете использовать их в коммерческих целях.</div>"
         },
         "three": {
-          "question": "",
-          "answer": ""
+          "question": "Сколько времени хранятся проекты и изображения на платформе?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">Мы не планируем удалять ваши проекты и созданные изображения.<br/>\nДаже если у вас закончится место для хранения, вы сможете просматривать проекты и изображения. Но если захотите создать новый проект или изображения, сначала нужно удалить старые.</div>"
         }
       },
       "credit": {
         "one": {
-          "question": "",
-          "answer": ""
+          "question": "Что такое кредиты и как они работают?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>\nКредиты — это валюта платформы.<br/>\nПосле регистрации мы начисляем 10 бонусных кредитов, чтобы вы могли совершить первые действия и посмотреть, как всё работает. Чтобы получить больше, вам нужно ввести промокод.<br/><br/>\nКредиты расходуются на целевые действия на платформе. Удаление фона считается простым действием и стоит меньше кредитов. А обучение нейросети в ходе профессиональной фотосессии — более сложное и стоит дороже.<br/><br/>\nКак расходуются кредиты:\n  </p>\n  <ul>\n  <li>Удаление фона — <strong>0,1 кредита</strong></li>\n<li>Создание сета из 4 изображений (1 генерация) — <strong>1 кредит</strong></li>\n    <li>Профессиональная фотосессия — <strong>50 кредитов</strong></li>\n  </ul>\n</div>"
         },
         "two": {
-          "question": "",
-          "answer": ""
+          "question": "У меня закончились кредиты. Как получить больше?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>\nЧтобы получить больше кредитов, нужно ввести промокод.<br/>\nЕсли вы общаетесь с кем-то из нашей команды, то напишите им. Укажите, что хотите сделать и сколько кредитов вам нужно. Или заполните форму в секции «<strong>Написать нам</strong>», и мы пришлём новый промокод.\n </p>\n</div>"
         }
       },
       "features": {
         "one": {
-          "question": "",
-          "answer": ""
+          "question": "В чём отличие замены фона от профессиональной фотосессии?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\">При замене фона мы удаляем фон с загруженного изображения и заменяем на любой, который опишете. Ваш товар остаётся в том же ракурсе, положении и цвете.<br/>Для фотосессии мы показываем снимки вашего товара нейросети и учим её передавать его форму и детали. И так мы можем создавать изображения вашего товара с разных ракурсов и в разных контекстах. Для одежды, обуви и украшений мы даже можем поместить ваш товар на человека.</div>"
         },
         "two": {
-          "question": "",
-          "answer": ""
+          "question": "Я не знаю, какой способ генерации выбрать — замену фона или фотосессию?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>Мы собрали примеры использования для каждого способа. Но вы можете использовать по-другому.</p>\n\n<p>Когда мы рекомендуем <strong>заменять фон</strong>:</p>\n<ul>\n    <li><strong>У вас хорошее фото вашего товара</strong>, и вам нужен новый фон.</li>\n<li><strong>Вам нужны изображения быстро.</strong>\nС заменой фона вы получите десятки новых изображений за минуты.</li>\n<li><strong>Вы ищете вдохновение.</strong> Попробуйте разные фоны и стили, чтобы понять, что выглядит лучше всего.</li>\n</ul>\n\n  <p>Когда <strong>создавать фотосессию</strong>:</p>\n <ul>\n    <li><strong>Вам нужны изображения товара с разных сторон.</strong></li>\n <li><strong>У вас не всегда товар под рукой. </strong> Для фотосессии вы фотографируете ваш товар один раз и затем можете создавать разные изображения только на основе описания.</li>\n <li><strong>У вас есть время.</strong> Обучить нейросеть занимает до часа.</li>\n  </ul>\n</div>"
         },
         "three": {
-          "question": "",
-          "answer": ""
+          "question": "Как вы создаёте фото моего товара в фотосессии?",
+          "answer": "<span style=\"color: #1C244B; font-size: 16px; font-family: Inter; font-weight: 400; line-height: 24px; word-wrap: break-word\"> \n<p>Для фотосессии нам нужно 15–20 фото вашего товара. Наша нейросеть изучает их, запоминает форму и детали товара и создаёт своего рода 3Д-модель.\n</p>\n<p>\nЭтот процесс может занимать до часа. Когда обучение закончится, вам нужно только описать контекст, а мы уже вставим ваш товар в него.\n</p>"
         },
         "four": {
-          "question": "",
-          "answer": ""
+          "question": "Почему мой товар не идеально сохраняется?",
+          "answer": "<div style=\"color: #1C244B; font-size: 16px; font-family: Inter; line-height: 24px;\">\n  <p>\nНейросеть хорошо генерирует изображения, но сохранить детали товара не всегда может. Мы знаем об этой проблеме и думаем над тем, как генерировать изображения без изменения вашего товара.\n</p>\n<p>\nТочность вашего товара зависит и от качества загруженных фото. Проверьте, что фото сделаны с разных сторон, показывают детали и масштаб товара. Больше рекомендаций собрали в статье «<a href=\"/how_to_upload_photo\" style=\"color: #1C244B; text-decoration: underline;\"><strong>Как выбрать фото для загрузки</strong></a>».\n</p>\n</div>"
         }
       }
     }
@@ -134,8 +134,8 @@
     "contactUs": "Написать нам",
     "create": "Что хотите сделать?",
     "myProject": "Библиотека проектов",
-    "createPhoto": "",
-    "createModel": "",
+    "createPhoto": "Создать проект",
+    "createModel": "Создать проект",
     "coinsCount": {
       "one": "{count} кредит",
       "few": "{count} кредита",
@@ -150,162 +150,162 @@
     "all": "Все",
     "model": "Фотосессия",
     "photo": "Фон",
-    "delete": "",
-    "rename": "",
-    "modelIsTraining": "",
-    "trainingFailed": "",
-    "promoCoinsApplied": "Promo code applied, and your balance updated",
-    "noCoinsOne": " Not enough credits.",
-    "noCoinsTwo": "Contact us",
-    "noCoinsThree": "for a new promo code",
-    "trainingFailedDesc": "",
-    "tryAgain": "",
-    "coinsCountUnlim": "",
-    "noCredits": ""
+    "delete": "Удалить",
+    "rename": "Переименовать",
+    "modelIsTraining": "Наша нейросеть учится передавать ваш товар и его черты",
+    "trainingFailed": "Обучение прервалось",
+    "promoCoinsApplied": "Пополнили ваш баланс кредитов по промокоду",
+    "noCoinsOne": "Недостаточно кредитов.",
+    "noCoinsTwo": "Напишите нам",
+    "noCoinsThree": ", чтобы получить новый промокод",
+    "trainingFailedDesc": "Извините, что подвели. Пожалуйста, попробуйте снова",
+    "tryAgain": "Повторить",
+    "coinsCountUnlim": "Безлимит кредитов",
+    "noCredits": "Нет кредитов"
   },
   "promocode": {
-    "promoTitle": "",
-    "code": "",
-    "apply": "",
-    "promoDescOne": "To help you get started, \u2028we’re giving you",
-    "promoDescTwo": "10 bonus credits"
+    "promoTitle": "Введите промокод,\u2028чтобы получить кредиты",
+    "code": "Код",
+    "apply": "Применить",
+    "promoDescOne": "На первые действия на платформе мы начислили",
+    "promoDescTwo": "10 бонусных кредитов"
   },
   "contactUs": {
-    "title": "",
-    "email": "",
-    "name": "",
-    "comment": "",
-    "contactUs": "",
-    "subtitle": "Hey there! How can we help?",
-    "commentHint": "Type your message here",
-    "commentError": ""
+    "title": "Напишите нам",
+    "email": "Ваша почта",
+    "name": "Ваше имя",
+    "comment": "Сообщение",
+    "contactUs": "Отправить",
+    "subtitle": "Если у вас есть вопросы, заполните эту форму",
+    "commentHint": "Задайте вопрос, предложите изменения или попросите промокод",
+    "commentError": "Нам нужно больше информации"
   },
   "editProject": {
-    "title": "",
-    "rename": "",
-    "change": ""
+    "title": "Переименовать",
+    "rename": "Имя проекта",
+    "change": "Сохранить"
   },
   "deleteProject": {
-    "title": "",
-    "subtitle": ""
+    "title": "Удалить проект «{name}»?",
+    "subtitle": "Все загруженные фотографии и созданные изображения будут удалены. Восстановить их будет нельзя"
   },
   "createPhoto": {
     "tabs": {
-      "background": ""
+      "background": "Создать"
     },
     "background": {
-      "prompt": "",
-      "size": "",
+      "prompt": "Какой фон хотите создать?",
+      "size": "Соотношение сторон",
       "promptSuggestionsBlock": {
-        "promptSuggestions": "",
-        "promptHelpText": "",
-        "usePrompt": "",
-        "promptModalSubtitle": ""
+        "promptSuggestions": "Подборка стилей",
+        "promptHelpText": "Выберите любой стиль, и он добавится к вашему описанию",
+        "usePrompt": "Применить",
+        "promptModalSubtitle": "Мы собрали коллекцию стилей, чтобы помочь вам создавать изображения студийного качества.\nВыберите любой стиль, и мы добавим его к вашему описанию"
       },
-      "generate": "",
+      "generate": "Создать",
       "generationSuggestions": "",
-      "promptHint": "",
-      "generatePromptButton": "",
-      "history": "",
-      "viewAll": "",
-      "noHistory": "",
-      "attachReference": "",
-      "newProject": "",
-      "promptHelpText": ""
+      "promptHint": "Нажмите «Сгенерировать описание», и нейросеть предложит вариант для вашего товара.\u2028\nИли заполните поле описания, если уже знаете, какое изображение хотите получите.",
+      "generatePromptButton": "Сгенерировать описание",
+      "history": "История",
+      "viewAll": "Посмотреть всё",
+      "noHistory": "Здесь будут созданные фоны",
+      "attachReference": "Добавить пример изображения",
+      "newProject": "Новый проект",
+      "promptHelpText": "[Товар] на фоне [леса], вокруг [цветы], [мягкий тёплый] свет, [минималистичный] стиль"
     }
   },
   "createModel": {
-    "goHome": "",
-    "welcome": "",
+    "goHome": "На главную",
+    "welcome": "Вы создаёте проект",
     "rules": {
-      "1": "",
-      "2": ""
+      "1": "Загрузите 10–25 фото вашего товара",
+      "2": "Рекомендуем загрузить 15-20 фотографий хорошего качества с разных ракурсов. Так нейросеть сможет создать более реалистичные изображения.\u2028\u2028Сделать фотосессию будет стоить 50 кредитов и займёт около часа. За это время наша нейросеть научится передавать ваш товар и его отличительные черты."
     },
-    "howGenerate": "",
-    "readBestPractices": "",
-    "bestPractices": "",
-    "dragNDrop": "",
-    "upload": "",
+    "howGenerate": "Полезное",
+    "readBestPractices": "Мы собрали рекомендации по свету, фону и расположению товара. Посмотрите, чтобы выбрать подходящие фото.",
+    "bestPractices": "Как выбрать фото для загрузки",
+    "dragNDrop": "Перетащите сюда фото\nили ",
+    "upload": "выберите файлы для загрузки",
     "imageErrors": {
-      "invalidFormat": "",
-      "invalidResolution": "",
-      "invalidSize": ""
+      "invalidFormat": "Формат файла не поддерживается",
+      "invalidResolution": "Минимальное разрешение фото — 384 x 384 px",
+      "invalidSize": "Максимальный размер — 10 МБ"
     },
-    "modelIsTraining": "",
-    "youNeedToAdd5morePhotos": "",
-    "trainingFinish": "",
-    "goToGeneration": "",
-    "startTraining": "",
+    "modelIsTraining": "Наша нейросеть учится передавать ваш товар и его черты.\u2028Вы можете закрыть эту страницу. Мы пришлем письмо, \u2028когда обучение закончится",
+    "youNeedToAdd5morePhotos": "Загрузите минимум 10 фото вашего товара",
+    "trainingFinish": "Готово! Теперь можно создавать изображения",
+    "goToGeneration": "Начать",
+    "startTraining": "Продолжить",
     "background": {
-      "prompt": "",
-      "size": "",
+      "prompt": "Какое изображение хотите создать?",
+      "size": "Соотношение сторон",
       "promptSuggestionsBlock": {
-        "promptSuggestions": "",
-        "promptHelpText": "",
-        "usePrompt": "",
-        "promptModalSubtitle": ""
+        "promptSuggestions": "Подборка стилей",
+        "promptHelpText": "Выберите любой стиль, и он добавится к вашему описанию",
+        "usePrompt": "Применить",
+        "promptModalSubtitle": "Мы собрали коллекцию стилей, чтобы помочь вам создавать изображения студийного качества.\nВыберите любой стиль, и мы добавим его к вашему описанию"
       },
-      "generate": "",
-      "promptHint": "",
-      "generatePromptButton": "",
-      "history": "",
-      "viewAll": "",
-      "noHistory": "",
-      "attachReference": "",
-      "newModel": "",
-      "promptHelpText": "",
-      "youCanGenerate": "",
-      "youCanGenerateDesc": "",
+      "generate": "Создать",
+      "promptHint": "Нажмите «Сгенерировать описание», и нейросеть предложит вариант для вашего товара.\u2028\u2028Или заполните поле описания, если уже знаете, какое изображение хотите получите.",
+      "generatePromptButton": "Сгенерировать описание",
+      "history": "История",
+      "viewAll": "Посмотреть всё",
+      "noHistory": "Здесь будут созданные изображения",
+      "attachReference": "Добавить пример изображения",
+      "newModel": "Новый проект",
+      "promptHelpText": "[Товар и его цвет] располагается [на платформе], вокруг [цветы], [лес] на фоне, [мягкий тёплый] свет, [минималистичный] стиль",
+      "youCanGenerate": "Представьте идеальное окружение для вашего товара",
+      "youCanGenerateDesc": "Опишите, где будет ваш товар на фото, какие объекты его окружают, какой у него фон, свет и стиль",
       "tabs": {
         "background": "Background"
       },
-      "title": ""
+      "title": "Создать"
     },
-    "model": "",
-    "modelInfo": "",
-    "modelInfoDesc": ""
+    "model": "Создать",
+    "modelInfo": "Загруженные\u2028фото",
+    "modelInfoDesc": "Наша нейросеть использует эти фото вашего товара, чтобы создавать новые изображения"
   },
   "generationHistory": {
-    "title": "",
-    "noHistory": "",
-    "noHistoryDescription": "",
+    "title": "История",
+    "noHistory": "Здесь пока ничего нет",
+    "noHistoryDescription": "Но это легко исправить — создайте изображения",
     "deletePhotoPopup": {
-      "title": "",
-      "subtitle": ""
+      "title": "Удалить изображение?",
+      "subtitle": "Мы не сможем его восстановить"
     }
   },
   "settings": {
-    "title": "",
-    "myAccount": "",
-    "email": "",
-    "deleteYourAccount": "",
-    "deleteAccount": "",
-    "deleteAccountDesc": "",
-    "currentPassword": "",
-    "newPassword": "",
-    "retypePassword": "",
-    "passwordRequirements": "",
-    "changePassword": "",
-    "createPassword": "",
-    "password": ""
+    "title": "Настройки",
+    "myAccount": "Аккаунт",
+    "email": "Ваша почта",
+    "deleteYourAccount": "Удалить аккаунт",
+    "deleteAccount": "Удалить",
+    "deleteAccountDesc": "Проекты, загруженные фото и сгенерированные изображения будут удалены. Мы не сможем их восстановить",
+    "currentPassword": "Старый пароль",
+    "newPassword": "Новый пароль",
+    "retypePassword": "Новый пароль ещё раз",
+    "passwordRequirements": "Требования к паролю",
+    "changePassword": "Изменить пароль",
+    "createPassword": "Создать пароль",
+    "password": "Пароль"
   },
   "passwordHints": {
-    "lengthHint": "",
-    "numberHint": "",
-    "upperCaseHint": "",
-    "lowerCaseHint": ""
+    "lengthHint": "8 символов или больше",
+    "numberHint": "цифра",
+    "upperCaseHint": "заглавная латинская буква",
+    "lowerCaseHint": "строчная латинская буква"
   },
   "errors": {
     "message": "",
-    "passwordsNotMatch": "",
-    "mobileDeviceIncompatibleTitle": "",
-    "mobileDeviceIncompatibleSubTitle": ""
+    "passwordsNotMatch": "Пароль не соответствует требованиям",
+    "mobileDeviceIncompatibleTitle": "Impacta работает лучше с компьютера",
+    "mobileDeviceIncompatibleSubTitle": "Мы ещё работаем над мобильной версией платформы. Поэтому рекомендуем пользоваться с ноутбука или компьютера"
   },
   "localePopup": {
-    "title": "Сменить язык"
+    "title": "Изменить язык"
   },
   "toasts": {
-    "passwordChanged": "",
-    "promoCodeApplied": ""
+    "passwordChanged": "Пароль создан",
+    "promoCodeApplied": "Пополнили ваш баланс кредитов по промокоду"
   }
 }
