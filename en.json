@@ -244,7 +244,7 @@
         "promptModalSubtitle": "We’ve prepared a collection of styles to help you create studio-like visuals.\nChoose any style, and we’ll add it to your description"
       },
       "generate": "Create",
-      "promptHint": "‘Get inspiration from AI’ will generate a description for your product.\u2028\n\u2028Or write a description \u2028if you know what image\n\u2028you want to create.",
+      "promptHint": "‘Get inspiration from AI’ will generate a description for your product.\u2028Or write a description if you know what background you want to create.",
       "generatePromptButton": "Get inspiration from AI",
       "history": "History",
       "viewAll": "View all",
