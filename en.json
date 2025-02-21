@@ -176,7 +176,10 @@
     "contactUs": "Send",
     "subtitle": "Fill in the form, and we’ll get back to you",
     "commentHint": "Write your questions, suggest changes, or ask for a promo code here",
-    "commentError": "We need a bit more info to take action"
+    "commentError": "We need a bit more info to take action",
+    "emailShortError": "Your email cannot be shorter than 6 characters",
+    "emailIncorrectError": "Incorrect email. Check the spelling and try again",
+    "feedbackSent": "Thanks for your message, we’ll get back to you"
   },
   "editProject": {
     "title": "Edit name",
@@ -222,7 +225,7 @@
     "howGenerate": "Photo tip",
     "readBestPractices": "We’ve got a guide on lighting, background, and positioning. Check it out to choose the right photos.",
     "bestPractices": "How to choose photos for upload",
-    "dragNDrop": "Drop your photos here\n\u2028or ",
+    "dragNDrop": "Drop your photos here\u2028or ",
     "upload": "choose files to upload",
     "imageErrors": {
       "invalidFormat": "File format not supported",
@@ -261,7 +264,8 @@
     },
     "model": "Create",
     "modelInfo": "Uploaded photos",
-    "modelInfoDesc": "Our AI uses these photos of your product to create new visuals"
+    "modelInfoDesc": "Our AI uses these photos of your product to create new visuals",
+    "emptyNameError": "Add a project name to continue"
   },
   "generationHistory": {
     "title": "History",
