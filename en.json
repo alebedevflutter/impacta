@@ -202,7 +202,7 @@
       },
       "generate": "Create",
       "generationSuggestions": "{count} coin is debited for 1 generation",
-      "promptHint": "‘Get inspiration from AI’ will generate a description for your product.\u2028\n\u2028Or write a description \u2028if you know what background\n\u2028you want to create.",
+      "promptHint": "‘Get inspiration from AI’ will generate a description for your product.\u2028Or write a description if you know what background you want to create.",
       "generatePromptButton": "Get inspiration from AI",
       "history": "History",
       "viewAll": "View all",
